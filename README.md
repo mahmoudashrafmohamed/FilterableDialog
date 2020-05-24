@@ -12,7 +12,6 @@ Android Library to filter list of selections
   // to show it
 
  filterableDialog.show(onSearchItemSelected = { _, item ->
-
             // handle select item
             filterableDialog.dismiss()
             select_country_text.text = item.title
