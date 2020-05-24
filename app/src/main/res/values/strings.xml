@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FilterableDialog</string>
+    <string name="select_country">Select country</string>
+</resources>
